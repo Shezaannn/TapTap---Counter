@@ -22,8 +22,6 @@ It is built as a learning project to understand core Android development concept
 
 ## 🛠️ Tech Stack
 
-## 🛠️ Tech Stack
-
 - **Language:** Java
 - **UI:** XML (ConstraintLayout)
 - **Responsive UI:** sdp & ssp (scalable dp/sp for different screen sizes)
