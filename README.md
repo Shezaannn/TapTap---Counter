@@ -22,20 +22,14 @@ It is built as a learning project to understand core Android development concept
 
 ## 🛠️ Tech Stack
 
-<<<<<<< HEAD
-- **Language:** Java  
-- **UI:** XML (ConstraintLayout)  
-- **Sound:** SoundPool  
-- **Storage:** SharedPreferences  
-- **Platform:** Android  
-=======
+## 🛠️ Tech Stack
+
 - **Language:** Java
 - **UI:** XML (ConstraintLayout)
 - **Responsive UI:** sdp & ssp (scalable dp/sp for different screen sizes)
 - **Sound:** SoundPool
 - **Storage:** SharedPreferences
 - **Platform:** Android
->>>>>>> 9a2b4db (Add some unnecessary files to .gitignore)
 
 ---
 
